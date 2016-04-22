@@ -1,0 +1,9 @@
+exports.superSecret = "37489a6d25d105a0ae28aa8b2f3a849d";
+exports.TokenExpirationTime = 1440; // In Seconds
+exports.ErrorTitle = "Error";
+exports.SuccessTitle = "Ok";
+exports.InvalidLoginMessage = "Invalid login information";
+exports.MissingParametersMessage = "One or more parameters are missing";
+exports.InvalidOperationMessage = "Invalid Operation";
+exports.InvalidTokenMessage = "Invalid or misssing Token";
+exports.InvalidFilterParameters = "Invalid parameters";
