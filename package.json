@@ -25,4 +25,5 @@
     "type": "git",
     "url": "https://github.com/marcos1490/PhotosWS.git"
   },
+  "main": "./bin/www"
 }
