@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  "engines": {
+    "node": "5.9.1"
+  },
   "dependencies": {
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.3.5",
@@ -17,5 +20,9 @@
     "mysql": "^2.10.2",
     "password-hash": "^1.2.2",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcos1490/PhotosWS.git"
+  },
 }
